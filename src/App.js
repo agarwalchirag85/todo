@@ -22,6 +22,7 @@ class App extends Component  {
   updateInput(value){
     this.setState({
       userInput: value,
+      
     });
   }
   
